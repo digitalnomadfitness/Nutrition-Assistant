@@ -1,0 +1,9 @@
+{
+  "name": "dnf-nutrition-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Digital Nomad Fitness — Your Nutrition Assistant",
+  "engines": {
+    "node": ">=20"
+  }
+}
